@@ -8,7 +8,7 @@
   <a href="https://github.com/marioarl">
    
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioarl&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioarl&layout=compact&theme=dark&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioarl&layout=compact&langs_count=7&theme=dark&hide_border=false"/>
   
 </div>
   <div style="display: inline_block"><br>
@@ -16,8 +16,8 @@
   <img align="center" alt="mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mario-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="mario-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="mario-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="mario-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
      
      
