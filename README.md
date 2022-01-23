@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mario Lima 👋
 
 
-🌱 Estudando HTML5, CSS3, JavaScript, Pyhton, C , C++
+🌱 Estudando HTML5, CSS3, JavaScript, Pyhton, C , C++, LUA
 
 <div>
    
@@ -21,7 +21,7 @@
   <img align="center" alt="mario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mario-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="mario-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-
+  <img align="center" alt="mario-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" ">
      
      
   <img align="right" alt="coding" height="150" width="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
